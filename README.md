@@ -10,7 +10,7 @@ Este é um projeto de gerenciamento de tarefas desenvolvido em React, que permit
 - [Como Usar](#como-usar)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Contribuindo](#contribuindo)
-- [Licença](#licença)
+
 
 ## Visão Geral
 
@@ -39,7 +39,29 @@ Antes de começar, verifique se você atende aos seguintes pré-requisitos:
 
 Para instalar este projeto, siga estas etapas:
 
-1. Clone o repositório:
+Como Usar
+Para iniciar o servidor de desenvolvimento e executar o projeto, use o seguinte comando:
 
-```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
+bash
+Copy code
+npm start
+O projeto estará disponível no seu navegador em http://localhost:3000/.
+
+## Tecnologias Utilizadas
+React
+React Router DOM
+Axios
+Bootstrap
+UUID
+Yup
+
+## Contribuindo
+Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga estas etapas:
+
+Faça um fork do projeto.
+Crie uma branch para a sua feature (git checkout -b feature/sua-feature).
+Faça commit das suas alterações (git commit -am 'Adicione sua feature').
+Faça um push para a branch (git push origin feature/sua-feature).
+Crie um pull request.
+
+
