@@ -26,7 +26,7 @@ O projeto utiliza diversas tecnologias e bibliotecas, tornando-o uma ótima demo
 
 ## Capturas de Tela
 
-![Projeto em Ação](https://github.com/Zezinhojun/gerenciador-de-tarefas/raw/main/projetogerenciadordetarefasGif.gif)
+![Projeto em Ação](https://github.com/Zezinhojun/gerenciador-de-tarefas/blob/b563d2933c477d237b6c6e55a400f5fc060b7ab5/projetogerenciadordetarefasGif.gif)
 
 ## Pré-requisitos
 
