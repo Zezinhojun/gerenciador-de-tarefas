@@ -8,13 +8,13 @@ const TaskDetails = () => {
     return (
         <>
             <Header>Minhas tarefas</Header>
+
             <Link to={"/"}>
                 <Button>Voltar</Button>
             </Link>
 
             <p className="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Repellendus dignissimos sit labore accusantium? Ipsam, velit.</p>
-
         </>
     )
 }

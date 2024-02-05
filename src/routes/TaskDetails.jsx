@@ -9,7 +9,6 @@ import { useParams } from "react-router-dom"
 const TaskDetailsRoute = () => {
     const params = useParams()
     const navigate = useNavigate()
-
     const handleBackButtonClick = () => {
         navigate(-1)
     }
